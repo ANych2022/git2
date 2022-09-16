@@ -4,3 +4,6 @@
 2 line from feature
 
 >>>>>>> feature
+
++++++++++++
+3 line from main
