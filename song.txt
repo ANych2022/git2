@@ -2,7 +2,11 @@ aaaaaaaaaaaaaaaa
 
 _________________
 
+<<<<<<< HEAD
 del in feature branch
 
 __________________
 try again
+=======
+feature branch - i need chnges
+>>>>>>> feature
