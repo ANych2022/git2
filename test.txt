@@ -3,7 +3,16 @@
 =======
 2 line from feature
 
+<<<<<<< HEAD
 >>>>>>> feature
 
 +++++++++++
 3 line from main
+=======
+____________________
+4 line again feature
+5 one more text
+
+
+
+>>>>>>> feature
